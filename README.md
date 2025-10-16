@@ -63,3 +63,13 @@ O Data Mart unificado é composto pelas seguintes colunas, prontas para consumo:
 2.  Execute o script Python que contém o pipeline ETL.
 
 Após a execução, o arquivo `ecommerce_data_mart.parquet` será gerado no diretório raiz do projeto.
+
+## 👨‍💻 Criado por
+
+**Paloma Cordeiro**
+
+* **LinkedIn:** [\[LinkedIn\]](br.linkedin.com/in/paloma-cordeiro-119750b6)
+* **GitHub:** [\[GitHub\]](https://github.com/palomacdev)
+
+**Repositório:** `Projeto_ETL_Ecommerce_Data_Engineer` 
+
